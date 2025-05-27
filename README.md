@@ -6,13 +6,13 @@ This project extracts, classifies, and summarizes medical data from PDF-based El
 
 - `data/raw_pdfs/` — Original PDF documents (e.g. 400 patient histories)
 - `data/processed_texts/` — Text extracted from PDFs via OCR
-- `models/` — Pretrained and fine-tuned NLP models
+- `models/` — Pretrained and fine-tuned NLP models(https://drive.google.com/file/d/1hYDcY6qWCPjBe4cIQRVqKLffnJjcPwlB/view?usp=sharing)
 - `notebooks/` — Jupyter notebooks for experimentation and training
 - `src/ocr/` — Code for PDF → text conversion (e.g., using NVIDIA nv-ingest or PyMuPDF)
 - `src/nlp/` — Named Entity Recognition and medical term extraction
 - `src/classification/` — Specialty classification logic (e.g., ENT vs Cardio)
 - `outputs/structured/` — Final structured summaries per specialty
-- `web_app/` — Streamlit frontend for users to upload files and view summaries
+- `web_app/` — Streamlit frontend for users to upload files and view summaries(https://drive.google.com/file/d/17dDeSwPsIU2TFbrKa5bTSFGC5MrOAUe6/view?usp=sharing)
 
 ## 🚀 Quick Start
 
