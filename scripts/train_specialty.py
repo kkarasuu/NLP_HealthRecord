@@ -5,7 +5,6 @@ import json
 import os
 import torch
 
-# monkey-patch для старых версий torch
 if not hasattr(torch, "get_default_device"):
     def get_default_device():
         return torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -17,7 +16,6 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 with open("specialty_train_large.json") as f:
     data = json.load(f)
 
-# фильтрация кривых примеров
 data = [x for x in data if isinstance(x["text"], str) and isinstance(x["label"], str)]
 
 dataset = Dataset.from_list(data)
@@ -44,11 +42,9 @@ trainer = Trainer(
 
 trainer.train()
 
-# Сохраняем модель
 model.save_pretrained("specialty_filter")
 tokenizer.save_pretrained("specialty_filter")
 
-# Оценка качества
 predictions = trainer.predict(dataset['test'])
 y_true = predictions.label_ids
 y_pred = predictions.predictions.argmax(-1)
