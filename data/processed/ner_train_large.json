@@ -1,0 +1,14062 @@
+[
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Started",
+      "on",
+      "beta-blockers"
+    ],
+    "ner_tags": [
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "reports",
+      "chest",
+      "pain"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "receives",
+      "insulin",
+      "therapy"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Experiences",
+      "dizziness",
+      "frequently"
+    ],
+    "ner_tags": [
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Scheduled",
+      "for",
+      "gastroscopy",
+      "next",
+      "week"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Diagnosis",
+      ":",
+      "asthma"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Cholesterol",
+      "level",
+      "is",
+      "6.5",
+      "mmol/L"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Biopsy",
+      "performed",
+      "on",
+      "liver"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      0,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Suspected",
+      "coronary",
+      "artery",
+      "disease"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Has",
+      "had",
+      "persistent",
+      "cough"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "had",
+      "CT",
+      "scan"
+    ],
+    "ner_tags": [
+      4,
+      0,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "MRI",
+      "reveals",
+      "mild",
+      "atrophy"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Recommended",
+      "low-sodium",
+      "diet"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "tokens": [
+      "Underwent",
+      "ECG",
+      "yesterday"
+    ],
+    "ner_tags": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "tokens": [
+      "Findings",
+      "confirm",
+      "type",
+      "2",
+      "diabetes"
+    ],
+    "ner_tags": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Echocardiogram",
+      "shows",
+      "normal",
+      "EF"
+    ],
+    "ner_tags": [
+      5,
+      0,
+      5,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Patient",
+      "was",
+      "diagnosed",
+      "with",
+      "hypertension"
+    ],
+    "ner_tags": [
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "tokens": [
+      "Complains",
+      "of",
+      "nausea",
+      "and",
+      "vomiting"
+    ],
+    "ner_tags": [
+      2,
+      0,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "tokens": [
+      "Blood",
+      "pressure",
+      "is",
+      "150/95"
+    ],
+    "ner_tags": [
+      5,
+      5,
+      0,
+      5
+    ]
+  },
+  {
+    "tokens": [
+      "Prescribed",
+      "atorvastatin",
+      "20mg",
+      "daily"
+    ],
+    "ner_tags": [
+      3,
+      3,
+      3,
+      3
+    ]
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Prescribed hypertension for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Routine check-up indicates glaucoma.",
+    "label": "therapist"
+  },
+  {
+    "text": "MRI indicates blurred in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient reports psoriasis in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Urine test shows stage 2.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosed with hypertension.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Treatment plan includes sciatica.",
+    "label": "oncology"
+  },
+  {
+    "text": "Blood pressure is hypertension mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Recovery from nodule is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosis: fatigue.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosis: 6.5.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Diagnosis: 6.5.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Thyroid function test shows migraine.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed lenses for hypertension.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Tumor located in glaucoma.",
+    "label": "oncology"
+  },
+  {
+    "text": "Symptoms of 140/90 noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Ophthalmologic test shows 150/95.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Creatinine level is fatigue \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosed with glaucoma.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Scheduled for 5.5 next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosis: improvement.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosis: ulcer.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Thyroid function test shows cyst.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosis: asthma.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Topical treatment with ulcer recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Scheduled for improvement next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Complains of migraine and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient started chemotherapy for fatigue.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed insulin therapy for pneumonia.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient suffers from 150/95 during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Recovery from 6.5 is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "MRI indicates 150/95 in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosed with sciatica.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Audiogram shows ulcer.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient reports improvement and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed antibiotics for blurred.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient reports ulcer and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Scheduled for 150/95 next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Symptoms of migraine noted.",
+    "label": "urology"
+  },
+  {
+    "text": "Topical treatment with psoriasis recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient complains of statins.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient reports hematuria and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Visible signs of sciatica on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Creatinine level is nodule \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "History of fatigue procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Skin biopsy confirmed eczema.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed nodule for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Patient reports 5.5 in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient suffers from statins during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Joint pain and blurred reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Joint pain and cholecystitis reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient has migraine in right eye.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Ultrasound shows 140/90.",
+    "label": "urology"
+  },
+  {
+    "text": "Ultrasound shows asthma.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Endoscopy reveals 6.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "MRI indicates ulcer in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosed with cyst.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Lung function test indicates psoriasis.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "CT scan shows cyst in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Underwent cholecystitis surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Patient reports improvement during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Ultrasound shows 6.5.",
+    "label": "urology"
+  },
+  {
+    "text": "Stage statins cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient reports migraine vision.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient has abdominal hematuria.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed sciatica for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Symptoms of 6.5 noted.",
+    "label": "urology"
+  },
+  {
+    "text": "MRI indicates sciatica in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosis: 5.5.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient has abdominal fatigue.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed sciatica for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Endoscopy reveals diabetes.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Symptoms include ulcer and nausea.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed insulin therapy for psoriasis.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Urine test shows 6.5.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Cervical exam revealed tinnitus.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient suffers from glaucoma during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Patient complains of statins.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient started chemotherapy for 5.5.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosed with glaucoma.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient reports psoriasis in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient suffers from asthma during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Diagnosis: 140/90.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosis: pneumonia.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Skin biopsy confirmed stage 2.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Lung function test indicates hematuria.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "History of blurred procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Ultrasound shows cholecystitis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Blood sugar level is hypertension mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosed with statins.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed 140/90 for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient has abdominal 6.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Routine check-up indicates glaucoma.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient reports 6.5 and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed migraine for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Diagnosed with gastritis.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient reports 5.5 for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Skin biopsy confirmed nodule.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Routine check-up indicates 140/90.",
+    "label": "therapist"
+  },
+  {
+    "text": "Prescribed 140/90 for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "General fatigue and tinnitus observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Diagnosis: asthma.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed pneumonia as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "Blood test normal except for 150/95.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient diagnosed with migraine.",
+    "label": "neurology"
+  },
+  {
+    "text": "Complains of statins and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Post-operative condition is gastritis.",
+    "label": "surgery"
+  },
+  {
+    "text": "Patient reports beta-blockers for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Joint pain and pneumonia reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosis: gastritis.",
+    "label": "nephrology"
+  },
+  {
+    "text": "History of psoriasis episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "History of blurred episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient complains of hematuria.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for 150/95.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosis: hypertension.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Endoscopy reveals sciatica.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Scheduled for psoriasis next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "CT scan shows asthma in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "CT scan shows improvement in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Underwent diabetes surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Recovery from 150/95 is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed hormonal therapy for nodule.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient reports migraine and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient reports fatigue during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Audiogram shows diabetes.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Complains of statins and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed asthma for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Stage asthma cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosed with hypertension.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Underwent glaucoma surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosed with eczema.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient reports pneumonia during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Patient reports 140/90 during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosed with 5.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "General fatigue and ulcer observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient suffers from hematuria during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "General fatigue and cholecystitis observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Complains of migraine and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed inhalers for nodule.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "General fatigue and hematuria observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient has history of sciatica.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Endoscopy reveals fatigue.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed pneumonia for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Patient reports 6.5 in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Diagnosed with blurred.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Creatinine level is cyst \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Endoscopy reveals 5.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals improvement.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Prescribed eczema as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "Prescribed 6.5 for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient reports blurred during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Skin biopsy confirmed psoriasis.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosed with cholecystitis.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient started chemotherapy for pneumonia.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for stage 2.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Symptoms include eczema and nausea.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Audiogram shows nodule.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient has abdominal 5.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "MRI indicates improvement in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient has history of improvement.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient complains of glaucoma.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Ultrasound shows sciatica.",
+    "label": "urology"
+  },
+  {
+    "text": "Blood test normal except for nodule.",
+    "label": "therapist"
+  },
+  {
+    "text": "Prescribed 6.5 for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Biopsy confirms gastritis.",
+    "label": "oncology"
+  },
+  {
+    "text": "Topical treatment with ulcer recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed nodule for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Patient has abdominal 6.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient has history of nodule.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Prescribed migraine for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: 150/95.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Blood pressure is cholecystitis mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Recovery from 5.5 is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed tinnitus for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Blood pressure is 5.5 mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "MRI indicates improvement in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosed with diabetes.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient reports diabetes during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: nodule.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Tumor located in hematuria.",
+    "label": "oncology"
+  },
+  {
+    "text": "Routine check-up indicates psoriasis.",
+    "label": "therapist"
+  },
+  {
+    "text": "Symptoms of statins noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Tumor located in beta-blockers.",
+    "label": "oncology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals cholecystitis.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Patient reports psoriasis during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: blurred.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosis: 5.5.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosed with sciatica.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Underwent migraine surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Complains of blurred and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosis: eczema.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals 6.5.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosed with sciatica.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Patient complains of cholecystitis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed lenses for sciatica.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Endoscopy reveals nodule.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Diagnosed with 5.5.",
+    "label": "urology"
+  },
+  {
+    "text": "Treatment plan includes 5.5.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosed with psoriasis.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Tumor located in nodule.",
+    "label": "oncology"
+  },
+  {
+    "text": "Scheduled for fatigue next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed lenses for stage 2.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Prescribed insulin therapy for diabetes.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient has persistent gastritis.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Prescribed asthma for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "MRI indicates psoriasis in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Blood test normal except for fatigue.",
+    "label": "therapist"
+  },
+  {
+    "text": "Biopsy confirms psoriasis.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed improvement for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Tumor located in statins.",
+    "label": "oncology"
+  },
+  {
+    "text": "Ultrasound shows 150/95.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosed with 150/95.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Thyroid function test shows eczema.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed lenses for beta-blockers.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosed with ulcer.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Creatinine level is psoriasis \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosed with 5.5.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for improvement.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient suffers from diabetes during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "CT scan shows cyst in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient has abdominal cholecystitis.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "CT scan shows psoriasis in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient reports cholecystitis and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient started chemotherapy for 140/90.",
+    "label": "oncology"
+  },
+  {
+    "text": "Recovery from improvement is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "History of asthma procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "General fatigue and 5.5 observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Ophthalmologic test shows sciatica.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Prescribed glaucoma for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosed with stage 2.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Diagnosed with improvement.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient has persistent ulcer.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "CT scan shows sciatica in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Complains of 5.5 and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Recovery from eczema is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosis: blurred.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient reports stage 2 vision.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Complains of hypertension and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Routine check-up indicates blurred.",
+    "label": "therapist"
+  },
+  {
+    "text": "MRI indicates pneumonia in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Lung function test indicates stage 2.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Joint pain and ulcer reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosis: gastritis.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient diagnosed with sciatica.",
+    "label": "neurology"
+  },
+  {
+    "text": "Ophthalmologic test shows 6.5.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Lung function test indicates beta-blockers.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Ultrasound shows nodule.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed nodule for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Patient started chemotherapy for migraine.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient reports gastritis during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Symptoms include hematuria and nausea.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient has history of ulcer.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient started chemotherapy for asthma.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed improvement for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed inhalers for hypertension.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "ECG shows signs of tinnitus.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Prescribed psoriasis for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Biopsy confirms cholecystitis.",
+    "label": "oncology"
+  },
+  {
+    "text": "X-ray shows migraine.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Tumor located in 6.5.",
+    "label": "oncology"
+  },
+  {
+    "text": "Complains of 140/90 and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Biopsy confirms fatigue.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosed with cholecystitis.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient has statins in right eye.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Stage glaucoma cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient has abdominal tinnitus.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Symptoms of psoriasis noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Audiogram shows 6.5.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed diabetes for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Patient reports gastritis during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Patient complains of sciatica.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Complains of ulcer and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosed with migraine.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient started chemotherapy for improvement.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient reports ulcer in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed antibiotics for migraine.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient reports stage 2 in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Routine check-up indicates tinnitus.",
+    "label": "therapist"
+  },
+  {
+    "text": "Topical treatment with improvement recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Ultrasound shows sciatica.",
+    "label": "urology"
+  },
+  {
+    "text": "Creatinine level is stage 2 \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Visible signs of fatigue on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed 140/90 for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "History of cholecystitis episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed gastritis for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Biopsy confirms tinnitus.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient started chemotherapy for cyst.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosed with 5.5.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosis: diabetes.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed blurred for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosis: cholecystitis.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Tumor located in migraine.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed improvement for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals asthma.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Thyroid function test shows 140/90.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Blood sugar level is 140/90 mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosed with 6.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Creatinine level is tinnitus \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosis: hematuria.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Ophthalmologic test shows glaucoma.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosed with blurred.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Lung function test indicates beta-blockers.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient started chemotherapy for stage 2.",
+    "label": "oncology"
+  },
+  {
+    "text": "Joint pain and beta-blockers reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient reports statins and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient reports 150/95 during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed fatigue for inflammation.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Creatinine level is stage 2 \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Visible signs of blurred on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient has history of statins.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient suffers from hematuria during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Visible signs of 6.5 on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed antibiotics for sciatica.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Ultrasound shows 6.5.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosis: glaucoma.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Joint pain and pneumonia reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Endoscopy reveals 5.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Creatinine level is stage 2 \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Lung function test indicates 150/95.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Urine test shows nodule.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Tumor located in hypertension.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient suffers from eczema during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Diagnosed with pneumonia.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Prescribed 140/90 for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosed with improvement.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient reports glaucoma in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Diagnosed with 150/95.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "History of statins procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosed with nodule.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Diagnosis: nodule.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Tumor located in beta-blockers.",
+    "label": "oncology"
+  },
+  {
+    "text": "Treatment plan includes 150/95.",
+    "label": "oncology"
+  },
+  {
+    "text": "Cervical exam revealed 5.5.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient diagnosed with cholecystitis.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient reports stage 2 for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Lung function test indicates psoriasis.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Diagnosed with gastritis.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosed with eczema.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: 5.5.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Blood pressure is tinnitus mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Prescribed lenses for 140/90.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "CT scan shows fatigue in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Visible signs of statins on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed antibiotics for asthma.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Scheduled for tinnitus next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Patient reports tinnitus for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Tumor located in hypertension.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient has history of migraine.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Prescribed gastritis for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: nodule.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Prescribed lenses for 150/95.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Audiogram shows gastritis.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Visible signs of gastritis on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Underwent fatigue surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Lung function test indicates hypertension.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Underwent improvement surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Symptoms of hematuria noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient has history of diabetes.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Cervical exam revealed fatigue.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient complains of ulcer.",
+    "label": "gynecology"
+  },
+  {
+    "text": "X-ray shows pneumonia.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient reports diabetes vision.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient has history of stage 2.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient diagnosed with diabetes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed eczema for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed fatigue for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Recovery from improvement is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Complains of nodule and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Diagnosis: diabetes.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Biopsy confirms tinnitus.",
+    "label": "oncology"
+  },
+  {
+    "text": "Biopsy confirms stage 2.",
+    "label": "oncology"
+  },
+  {
+    "text": "Lung function test indicates nodule.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals 6.5.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Skin biopsy confirmed pneumonia.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient has persistent 5.5.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient complains of nodule.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals 5.5.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Treatment plan includes stage 2.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosed with stage 2.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Diagnosed with gastritis.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Symptoms include fatigue and nausea.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Urine test shows gastritis.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Topical treatment with glaucoma recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Blood sugar level is hypertension mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed 6.5 as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "Prescribed 140/90 for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Audiogram shows stage 2.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals glaucoma.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosis: gastritis.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "X-ray shows improvement.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Skin biopsy confirmed gastritis.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed inhalers for eczema.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for psoriasis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Blood test normal except for cyst.",
+    "label": "therapist"
+  },
+  {
+    "text": "Tumor located in nodule.",
+    "label": "oncology"
+  },
+  {
+    "text": "Blood pressure is eczema mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Blood pressure is glaucoma mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "X-ray shows 150/95.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosed with asthma.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Diagnosed with sciatica.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "X-ray shows 140/90.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Creatinine level is asthma \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Patient has persistent hematuria.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Tumor located in eczema.",
+    "label": "oncology"
+  },
+  {
+    "text": "Visible signs of 150/95 on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosis: 150/95.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient reports 140/90 for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Joint pain and eczema reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "ECG shows signs of blurred.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Patient reports hematuria and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient reports ulcer for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient reports fatigue vision.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient reports cholecystitis in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Creatinine level is 150/95 \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Patient complains of nodule.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Lung function test indicates 150/95.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "ECG shows signs of ulcer.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Diagnosis: fatigue.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Prescribed antibiotics for eczema.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Complains of stage 2 and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "MRI indicates hematuria in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed beta-blockers for inflammation.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosis: eczema.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosed with pneumonia.",
+    "label": "urology"
+  },
+  {
+    "text": "Patient reports blurred and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosis: ulcer.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosis: beta-blockers.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosis: sciatica.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Post-operative condition is 5.5.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosed with sciatica.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Diagnosis: ulcer.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Diagnosis: 140/90.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed antibiotics for psoriasis.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "MRI indicates nodule in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Symptoms include hypertension and nausea.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Endoscopy reveals beta-blockers.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Complains of diabetes and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "MRI indicates fatigue in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosed with beta-blockers.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosis: cyst.",
+    "label": "dermatology"
+  },
+  {
+    "text": "General fatigue and eczema observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Prescribed hematuria for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosis: stage 2.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed inhalers for gastritis.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Skin biopsy confirmed eczema.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Biopsy confirms fatigue.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosed with asthma.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient reports ulcer and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Routine check-up indicates 5.5.",
+    "label": "therapist"
+  },
+  {
+    "text": "Cervical exam revealed gastritis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient has persistent ulcer.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient has abdominal sciatica.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient has abdominal 5.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Diagnosed with cholecystitis.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed cholecystitis for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed nodule as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "Prescribed inhalers for 150/95.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Underwent glaucoma surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Lung function test indicates statins.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Lung function test indicates hematuria.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Topical treatment with statins recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosis: cholecystitis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosis: stage 2.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Underwent asthma surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Patient has gastritis in right eye.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosis: blurred.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Treatment plan includes pneumonia.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosis: 6.5.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient has history of nodule.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosis: diabetes.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Blood sugar level is tinnitus mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient reports gastritis and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Skin biopsy confirmed asthma.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Routine check-up indicates pneumonia.",
+    "label": "therapist"
+  },
+  {
+    "text": "Diagnosed with 150/95.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Prescribed inhalers for statins.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Diagnosed with stage 2.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed antibiotics for hypertension.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "History of ulcer procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "History of asthma episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "ECG shows signs of psoriasis.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Scheduled for 6.5 next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "General fatigue and asthma observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient diagnosed with sciatica.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for 150/95.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Cervical exam revealed statins.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosed with eczema.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Joint pain and hypertension reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Tumor located in improvement.",
+    "label": "oncology"
+  },
+  {
+    "text": "Endoscopy reveals pneumonia.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Complains of psoriasis and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed insulin therapy for hypertension.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for psoriasis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient reports gastritis for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Symptoms include fatigue and nausea.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed lenses for fatigue.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosis: 150/95.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient has abdominal nodule.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Topical treatment with nodule recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient has abdominal nodule.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient reports 150/95 for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient reports psoriasis during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "MRI indicates psoriasis in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed antibiotics for 150/95.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Ophthalmologic test shows diabetes.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosed with diabetes.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosed with fatigue.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Patient reports psoriasis vision.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Blood test normal except for diabetes.",
+    "label": "therapist"
+  },
+  {
+    "text": "Ultrasound shows gastritis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Blood sugar level is eczema mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosed with blurred.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed pneumonia for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Patient complains of cholecystitis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Underwent psoriasis surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Creatinine level is blurred \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Tumor located in 6.5.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed hematuria for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals tinnitus.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Visible signs of glaucoma on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosed with eczema.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Routine check-up indicates hematuria.",
+    "label": "therapist"
+  },
+  {
+    "text": "CT scan shows glaucoma in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Diagnosed with sciatica.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Ultrasound shows migraine.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosed with 140/90.",
+    "label": "urology"
+  },
+  {
+    "text": "Scheduled for fatigue next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosis: 150/95.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Prescribed cyst for inflammation.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Biopsy confirms nodule.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for asthma.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Biopsy confirms psoriasis.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosis: beta-blockers.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient reports 5.5 in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "ECG shows signs of glaucoma.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Symptoms of ulcer noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Audiogram shows cholecystitis.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Visible signs of cholecystitis on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "History of pneumonia procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Stage cholecystitis cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "General fatigue and gastritis observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Diagnosis: cholecystitis.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient reports diabetes in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Complains of hematuria and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals tinnitus.",
+    "label": "nephrology"
+  },
+  {
+    "text": "MRI indicates stage 2 in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosis: blurred.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosis: statins.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Ultrasound shows beta-blockers.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed insulin therapy for pneumonia.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient reports improvement and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Prescribed inhalers for hypertension.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "History of blurred episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals diabetes.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosis: statins.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosis: hematuria.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Prescribed antibiotics for nodule.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Stage fatigue cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "Symptoms include stage 2 and nausea.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Underwent asthma surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "History of gastritis episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Cervical exam revealed psoriasis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Thyroid function test shows stage 2.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Lung function test indicates cholecystitis.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Prescribed lenses for stage 2.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Prescribed tinnitus for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient has abdominal sciatica.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient reports tinnitus during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed insulin therapy for nodule.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Blood pressure is hypertension mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "General fatigue and gastritis observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "History of gastritis procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Ultrasound shows diabetes.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed cyst for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Topical treatment with tinnitus recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Post-operative condition is nodule.",
+    "label": "surgery"
+  },
+  {
+    "text": "Patient reports hematuria vision.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Scheduled for eczema next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Ultrasound shows hematuria.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosed with pneumonia.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Diagnosis: gastritis.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed hypertension for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Diagnosed with cholecystitis.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Diagnosis: gastritis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient has migraine in right eye.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Prescribed antibiotics for psoriasis.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Post-operative condition is beta-blockers.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosis: sciatica.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Endoscopy reveals pneumonia.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Ultrasound shows hematuria.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: tinnitus.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Symptoms include 5.5 and nausea.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "General fatigue and 140/90 observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Routine check-up indicates ulcer.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient reports blurred vision.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Ultrasound shows stage 2.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Symptoms of 5.5 noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed 6.5 for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosed with 140/90.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "MRI indicates gastritis in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Blood pressure is psoriasis mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Lung function test indicates 150/95.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Complains of cholecystitis and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed cholecystitis as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "Symptoms of 140/90 noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Complains of migraine and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed 140/90 for inflammation.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "X-ray shows beta-blockers.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Prescribed diabetes for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Prescribed hematuria for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals cyst.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Patient has gastritis in right eye.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Symptoms of statins noted.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosed with 150/95.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Creatinine level is 150/95 \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosed with tinnitus.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosed with cholecystitis.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient has abdominal 140/90.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient complains of migraine.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed fatigue for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Recovery from blurred is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals asthma.",
+    "label": "nephrology"
+  },
+  {
+    "text": "General fatigue and sciatica observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Routine check-up indicates statins.",
+    "label": "therapist"
+  },
+  {
+    "text": "Diagnosis: gastritis.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Prescribed lenses for hematuria.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Prescribed cholecystitis for inflammation.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient has improvement in right eye.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosed with tinnitus.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Thyroid function test shows diabetes.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed 150/95 as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "History of 150/95 episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Biopsy confirms pneumonia.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient complains of cholecystitis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Blood pressure is improvement mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Patient suffers from nodule during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Post-operative condition is hematuria.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed migraine as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "Blood test normal except for stage 2.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient has persistent ulcer.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient has hypertension in right eye.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Ophthalmologic test shows statins.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient reports blurred in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Audiogram shows eczema.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "General fatigue and pneumonia observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Cervical exam revealed beta-blockers.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosis: cyst.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Treatment plan includes statins.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosed with 150/95.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Treatment plan includes hypertension.",
+    "label": "oncology"
+  },
+  {
+    "text": "Recovery from beta-blockers is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Post-operative condition is pneumonia.",
+    "label": "surgery"
+  },
+  {
+    "text": "Thyroid function test shows gastritis.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Ultrasound shows beta-blockers.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals improvement.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Patient started chemotherapy for beta-blockers.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosis: cholecystitis.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Ophthalmologic test shows cyst.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient reports cholecystitis for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Joint pain and pneumonia reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Prescribed inhalers for glaucoma.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Prescribed insulin therapy for 140/90.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Recovery from fatigue is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Patient reports 150/95 for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient diagnosed with 140/90.",
+    "label": "neurology"
+  },
+  {
+    "text": "Creatinine level is 140/90 \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Treatment plan includes sciatica.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient reports statins for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Blood test normal except for hematuria.",
+    "label": "therapist"
+  },
+  {
+    "text": "Prescribed beta-blockers as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "Diagnosed with pneumonia.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Complains of fatigue and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient has history of cholecystitis.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Post-operative condition is migraine.",
+    "label": "surgery"
+  },
+  {
+    "text": "Stage psoriasis cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "Diagnosis: nodule.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Prescribed inhalers for 140/90.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Prescribed cyst for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Patient suffers from ulcer during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Tumor located in psoriasis.",
+    "label": "oncology"
+  },
+  {
+    "text": "History of 140/90 procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Lung function test indicates cyst.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Biopsy confirms improvement.",
+    "label": "oncology"
+  },
+  {
+    "text": "Cervical exam revealed asthma.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Complains of beta-blockers and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Diagnosis: blurred.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for stage 2.",
+    "label": "gynecology"
+  },
+  {
+    "text": "History of improvement episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient diagnosed with beta-blockers.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient reports 140/90 for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "History of asthma episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for gastritis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Post-operative condition is 150/95.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed inhalers for statins.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Prescribed inhalers for pneumonia.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Lung function test indicates 150/95.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient reports hematuria for the past week.",
+    "label": "therapist"
+  },
+  {
+    "text": "Patient has persistent asthma.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Complains of 6.5 and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient suffers from stage 2 during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Diagnosed with hematuria.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient reports pneumonia in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Audiogram shows blurred.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Diagnosis: diabetes.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals 5.5.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosed with 6.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient reports eczema in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Visible signs of pneumonia on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Skin biopsy confirmed 6.5.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Stage psoriasis cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient diagnosed with improvement.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed antibiotics for asthma.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed antibiotics for hematuria.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient reports improvement in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Recovery from pneumonia is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Ultrasound shows cholecystitis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed nodule for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Treatment plan includes 140/90.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient reports 6.5 during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: 150/95.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosed with cyst.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosis: psoriasis.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Prescribed lenses for ulcer.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient has persistent stage 2.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Endoscopy reveals 6.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Ultrasound shows hematuria.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosed with tinnitus.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Urine test shows gastritis.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Scheduled for migraine next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosis: stage 2.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Blood sugar level is migraine mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosed with asthma.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Thyroid function test shows ulcer.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed insulin therapy for asthma.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "General fatigue and gastritis observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Lung function test indicates stage 2.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "MRI indicates hypertension in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Blood sugar level is glaucoma mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosed with 5.5.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Prescribed sciatica for inflammation.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Creatinine level is statins \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Underwent psoriasis surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Blood sugar level is gastritis mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosis: beta-blockers.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Prescribed antibiotics for eczema.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Biopsy confirms beta-blockers.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed insulin therapy for 6.5.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Routine check-up indicates 140/90.",
+    "label": "therapist"
+  },
+  {
+    "text": "Endoscopy reveals glaucoma.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient complains of cholecystitis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosed with fatigue.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Scheduled for 140/90 next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Patient reports diabetes in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "CT scan shows diabetes in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Tumor located in beta-blockers.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed inhalers for nodule.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Lung function test indicates asthma.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Symptoms of statins noted.",
+    "label": "urology"
+  },
+  {
+    "text": "Complains of eczema and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Joint pain and tinnitus reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "X-ray shows ulcer.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient started chemotherapy for nodule.",
+    "label": "oncology"
+  },
+  {
+    "text": "Blood sugar level is hematuria mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient diagnosed with 6.5.",
+    "label": "neurology"
+  },
+  {
+    "text": "History of hypertension procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals tinnitus.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Ultrasound shows pneumonia.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: eczema.",
+    "label": "nephrology"
+  },
+  {
+    "text": "X-ray shows improvement.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosed with beta-blockers.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Ultrasound shows 5.5.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed hypertension for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient has abdominal 6.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed inhalers for hematuria.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "History of ulcer procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Creatinine level is improvement \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Topical treatment with sciatica recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "ECG shows signs of glaucoma.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Ultrasound shows asthma.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: diabetes.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Tumor located in eczema.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient reports pneumonia in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Stage hematuria cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "History of statins procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Patient has abdominal 5.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Stage migraine cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "Lung function test indicates ulcer.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Prescribed glaucoma for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Blood pressure is 150/95 mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Treatment plan includes beta-blockers.",
+    "label": "oncology"
+  },
+  {
+    "text": "Scheduled for improvement next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosed with 5.5.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Stage nodule cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "Symptoms include hypertension and nausea.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Patient has history of 140/90.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Biopsy confirms blurred.",
+    "label": "oncology"
+  },
+  {
+    "text": "Thyroid function test shows gastritis.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Blood sugar level is 5.5 mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Routine check-up indicates migraine.",
+    "label": "therapist"
+  },
+  {
+    "text": "Diagnosis: sciatica.",
+    "label": "nephrology"
+  },
+  {
+    "text": "MRI indicates cyst in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient suffers from migraine during exercise.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Complains of ulcer and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Patient reports hematuria vision.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient reports gastritis during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosed with gastritis.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Cervical exam revealed glaucoma.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosed with 150/95.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed insulin therapy for cholecystitis.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosis: fatigue.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Prescribed fatigue for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Underwent glaucoma surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed pneumonia for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "X-ray shows sciatica.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Thyroid function test shows beta-blockers.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosis: asthma.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosed with blurred.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Tumor located in fatigue.",
+    "label": "oncology"
+  },
+  {
+    "text": "Biopsy confirms asthma.",
+    "label": "oncology"
+  },
+  {
+    "text": "Cervical exam revealed 140/90.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Cervical exam revealed hypertension.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed migraine for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Cervical exam revealed diabetes.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Symptoms of gastritis noted.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed diabetes for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Scheduled for migraine next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "CT scan shows improvement in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "MRI indicates stage 2 in the brain.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed migraine for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Patient has abdominal gastritis.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Joint pain and tinnitus reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Lung function test indicates fatigue.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Audiogram shows glaucoma.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Thyroid function test shows diabetes.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "General fatigue and migraine observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Biopsy confirms gastritis.",
+    "label": "oncology"
+  },
+  {
+    "text": "Cervical exam revealed improvement.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed sciatica for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Tumor located in diabetes.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed inhalers for tinnitus.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Blood sugar level is psoriasis mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Stage psoriasis cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "Complains of hematuria and sinus pain.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Prescribed pneumonia for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed antibiotics for psoriasis.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Creatinine level is migraine \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosis: asthma.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient reports beta-blockers in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Diagnosis: fatigue.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Joint pain and blurred reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Tumor located in hematuria.",
+    "label": "oncology"
+  },
+  {
+    "text": "Symptoms of stage 2 noted.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed 6.5 for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "X-ray shows hematuria.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Patient reports fatigue and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosis: stage 2.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Blood sugar level is beta-blockers mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient complains of diabetes.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Lung function test indicates asthma.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "CT scan shows migraine in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Creatinine level is cyst \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Urine test shows diabetes.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosed with psoriasis.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for 150/95.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient reports stage 2 during urination.",
+    "label": "urology"
+  },
+  {
+    "text": "Recovery from 5.5 is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Endoscopy reveals fatigue.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed hypertension as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "Lung function test indicates hematuria.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Routine check-up indicates ulcer.",
+    "label": "therapist"
+  },
+  {
+    "text": "Prescribed insulin therapy for improvement.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient reports cyst and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Blood test normal except for diabetes.",
+    "label": "therapist"
+  },
+  {
+    "text": "Prescribed sciatica for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed insulin therapy for 150/95.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Urine test shows psoriasis.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Prescribed insulin therapy for beta-blockers.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed antibiotics for glaucoma.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Ultrasound of kidneys reveals diabetes.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for eczema.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Lung function test indicates blurred.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "General fatigue and psoriasis observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "Symptoms of blurred noted.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: cyst.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Diagnosis: glaucoma.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Thyroid function test shows blurred.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "ECG shows signs of sciatica.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Symptoms of sciatica noted.",
+    "label": "urology"
+  },
+  {
+    "text": "Joint pain and statins reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Endoscopy reveals sciatica.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Thyroid function test shows ulcer.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient has persistent diabetes.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Ophthalmologic test shows cyst.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Visible signs of hematuria on arms.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Routine check-up indicates 150/95.",
+    "label": "therapist"
+  },
+  {
+    "text": "Underwent improvement surgery.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed tinnitus as general medication.",
+    "label": "therapist"
+  },
+  {
+    "text": "Biopsy confirms statins.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed antibiotics for ulcer.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Recovery from cyst is progressing well.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed hypertension for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed eczema for neuralgia.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosis: improvement.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosis: migraine.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient has persistent improvement.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "History of diabetes episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Endoscopy reveals glaucoma.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Diagnosis: blurred.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Ophthalmologic test shows glaucoma.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Joint pain and pneumonia reported.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Ophthalmologic test shows migraine.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Diagnosed with 140/90.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient reports hematuria in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Diagnosed with pneumonia.",
+    "label": "urology"
+  },
+  {
+    "text": "Patient has abdominal 140/90.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Diagnosis: nodule.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Patient reports fatigue in ears.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Audiogram shows blurred.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Thyroid function test shows fatigue.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Symptoms of 140/90 noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "History of hypertension procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Topical treatment with fatigue recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Diagnosis: 150/95.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Symptoms of nodule noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "CT scan shows hypertension in the lungs.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient started chemotherapy for tinnitus.",
+    "label": "oncology"
+  },
+  {
+    "text": "Complains of nodule and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosis: blurred.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Patient started chemotherapy for improvement.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed insulin therapy for blurred.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosis: 6.5.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Skin biopsy confirmed blurred.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Audiogram shows glaucoma.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Tumor located in cyst.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed diabetes for inflammation.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Ultrasound shows improvement.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed improvement for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Patient has persistent hematuria.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient has abdominal gastritis.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed 140/90 for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Complains of glaucoma and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Prescribed hormonal therapy for psoriasis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Patient started chemotherapy for statins.",
+    "label": "oncology"
+  },
+  {
+    "text": "History of cholecystitis episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Blood pressure is diabetes mmHg.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Scheduled for gastritis next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosis: nodule.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed cholecystitis for digestion.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Prescribed hematuria for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Ophthalmologic test shows fatigue.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient has nodule in right eye.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient has abdominal psoriasis.",
+    "label": "gastroenterology"
+  },
+  {
+    "text": "Diagnosed with asthma.",
+    "label": "cardiology"
+  },
+  {
+    "text": "History of sciatica episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Scheduled for eczema next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Diagnosis: pneumonia.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Diagnosis: diabetes.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Skin biopsy confirmed migraine.",
+    "label": "dermatology"
+  },
+  {
+    "text": "History of glaucoma procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed hematuria for kidney function.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Scheduled for sciatica next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Prescribed 150/95 for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Complains of stage 2 and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "History of stage 2 procedure.",
+    "label": "surgery"
+  },
+  {
+    "text": "Scheduled for diabetes next week.",
+    "label": "surgery"
+  },
+  {
+    "text": "Stage hypertension cancer diagnosed.",
+    "label": "oncology"
+  },
+  {
+    "text": "X-ray shows beta-blockers.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Blood sugar level is 5.5 mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Patient reports asthma and redness.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient has psoriasis in right eye.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Patient started chemotherapy for 140/90.",
+    "label": "oncology"
+  },
+  {
+    "text": "Symptoms of fatigue noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Complains of ulcer and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Biopsy confirms 140/90.",
+    "label": "oncology"
+  },
+  {
+    "text": "Patient complains of gastritis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Creatinine level is 140/90 \u00b5mol/L.",
+    "label": "nephrology"
+  },
+  {
+    "text": "Cervical exam revealed nodule.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Prescribed inhalers for psoriasis.",
+    "label": "pulmonology"
+  },
+  {
+    "text": "Patient reports cyst vision.",
+    "label": "ophthalmology"
+  },
+  {
+    "text": "Symptoms of 150/95 noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "General fatigue and improvement observed.",
+    "label": "therapist"
+  },
+  {
+    "text": "History of psoriasis episodes.",
+    "label": "neurology"
+  },
+  {
+    "text": "Symptoms of glaucoma noted.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Thyroid function test shows tinnitus.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Diagnosis: tinnitus.",
+    "label": "otolaryngology"
+  },
+  {
+    "text": "Biopsy confirms asthma.",
+    "label": "oncology"
+  },
+  {
+    "text": "Prescribed improvement for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Patient has history of improvement.",
+    "label": "rheumatology"
+  },
+  {
+    "text": "Blood sugar level is pneumonia mmol/L.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Skin biopsy confirmed psoriasis.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Thyroid function test shows improvement.",
+    "label": "endocrinology"
+  },
+  {
+    "text": "Prescribed 140/90 for urinary issues.",
+    "label": "urology"
+  },
+  {
+    "text": "Prescribed 5.5 for hypertension.",
+    "label": "cardiology"
+  },
+  {
+    "text": "Symptoms of beta-blockers noted.",
+    "label": "urology"
+  },
+  {
+    "text": "Diagnosis: cholecystitis.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Complains of cholecystitis and dizziness.",
+    "label": "neurology"
+  },
+  {
+    "text": "Diagnosis: 140/90.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Topical treatment with nodule recommended.",
+    "label": "dermatology"
+  },
+  {
+    "text": "Patient complains of beta-blockers.",
+    "label": "gynecology"
+  },
+  {
+    "text": "Diagnosis: nodule.",
+    "label": "gynecology"
+  }
+]
