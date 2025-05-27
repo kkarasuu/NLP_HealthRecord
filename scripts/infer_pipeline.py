@@ -1,6 +1,6 @@
 import torch
 import json
-import fitz  # PyMuPDF
+import fitz 
 import argparse
 import os
 import nltk
@@ -14,24 +14,20 @@ nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
 
-# === Аргументы командной строки ===
 parser = argparse.ArgumentParser(description="Medical text inference pipeline")
 parser.add_argument("--pdf", type=str, required=True, help="Path to input PDF file")
 parser.add_argument("--specialty", type=str, required=True, help="Target medical specialty")
 parser.add_argument("--output", type=str, default="output.json", help="Path to save the result JSON")
 args = parser.parse_args()
 
-# === Загрузка PDF ===
 def extract_text_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)
     return "\n".join(page.get_text() for page in doc)
 
-# === Пути к моделям
 spec_model_path = "models/specialty_filter"
 cat_model_path = "models/category_classifier"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# === Загрузка моделей
 spec_model = AutoModelForSequenceClassification.from_pretrained(spec_model_path, local_files_only=True).to(device)
 spec_tokenizer = AutoTokenizer.from_pretrained(spec_model_path, local_files_only=True)
 cat_model = AutoModelForTokenClassification.from_pretrained(cat_model_path, local_files_only=True).to(device)
@@ -39,7 +35,6 @@ cat_tokenizer = AutoTokenizer.from_pretrained(cat_model_path, local_files_only=T
 
 ner = pipeline("ner", model=cat_model, tokenizer=cat_tokenizer, aggregation_strategy="simple", device=0 if torch.cuda.is_available() else -1)
 
-# === Загрузка Punkt Sentence Tokenizer
 try:
     tokenizer_path = "/usr/share/nltk_data/tokenizers/punkt/english.pickle"
     with open(tokenizer_path, "rb") as f:
@@ -48,7 +43,6 @@ except Exception as e:
     print("[ERROR] Failed to load Punkt tokenizer:", e)
     tokenizer = PunktSentenceTokenizer()
 
-# === Фильтрация по специальности
 def is_relevant(sentence, target_class, label2id):
     inputs = spec_tokenizer(sentence, return_tensors="pt", truncation=True, padding=True).to(device)
     with torch.no_grad():
@@ -56,7 +50,6 @@ def is_relevant(sentence, target_class, label2id):
         predicted = torch.argmax(logits, dim=1).item()
     return predicted == label2id[target_class]
 
-# === Основной пайплайн
 def run_pipeline(pdf_path, target_specialty):
     print("=== 🔍 Запуск пайплайна ===")
     text = extract_text_from_pdf(pdf_path)
@@ -127,7 +120,6 @@ def run_pipeline(pdf_path, target_specialty):
 
     return result
 
-# === Точка входа
 if __name__ == "__main__":
     output = run_pipeline(args.pdf, args.specialty)
 
