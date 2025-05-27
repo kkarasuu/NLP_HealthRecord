@@ -47,11 +47,9 @@ trainer = Trainer(
 
 trainer.train()
 
-# Сохраняем модель
 model.save_pretrained("category_classifier")
 tokenizer.save_pretrained("category_classifier")
 
-# Оценка качества
 predictions = trainer.predict(dataset_split['test'])
 y_true = predictions.label_ids
 y_pred = np.argmax(predictions.predictions, axis=-1)
