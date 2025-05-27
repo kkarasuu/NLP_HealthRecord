@@ -30,7 +30,7 @@ if __name__ == "__main__":
     text = load_text(file_path)
 
     print("🔍 Извлекаются сущности...")
-    entities = extract_entities(text[:1000])  # Ограничим до 1000 символов на первом этапе
+    entities = extract_entities(text[:1000])
 
     print("\n🧠 Найденные сущности:")
     for word, label in entities:
