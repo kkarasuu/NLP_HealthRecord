@@ -6,7 +6,6 @@ COPY requirements.txt .
 RUN pip install --upgrade pip
 RUN pip install --default-timeout=100 --no-cache-dir -r requirements.txt
 
-# ✅ Скачиваем punkt в нужную директорию
 RUN mkdir -p /usr/share/nltk_data && \
     python -m nltk.downloader -d /usr/share/nltk_data punkt
 
