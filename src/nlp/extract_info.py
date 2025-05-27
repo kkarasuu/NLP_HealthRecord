@@ -11,13 +11,11 @@ args = parser.parse_args()
 with open(args.file, "r", encoding="utf-8") as f:
     text = f.read()
 
-# === Шаблоны для поиска ===
 symptom_keywords = ["жалуется", "беспокоит", "наблюдаются", "отмечает", "предъявляет"]
 diagnosis_keywords = ["диагноз", "поставлен", "выставлен", "подозрение на"]
 prescription_keywords = ["назначен", "назначена", "рекомендован", "прописан", "выписан"]
 temperature_pattern = r"(\d{2}\.?\d*)\s*°?C"
 
-# === Результирующая структура ===
 info = {
     "Симптомы": [],
     "Температура": None,
@@ -25,7 +23,6 @@ info = {
     "Назначения": []
 }
 
-# === Обработка ===
 for line in text.split("\n"):
     lower = line.lower()
 
@@ -43,7 +40,6 @@ for line in text.split("\n"):
         if match:
             info["Температура"] = match.group(1) + "°C"
 
-# Удалим пустые поля
 if not info["Симптомы"]:
     info.pop("Симптомы")
 if not info["Назначения"]:
@@ -53,11 +49,10 @@ if not info["Диагноз"]:
 if not info["Температура"]:
     info.pop("Температура")
 
-# === Сохранение ===
 out_path = args.out or args.file.replace(".txt", ".json")
 os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
 with open(out_path, "w", encoding="utf-8") as f:
     json.dump(info, f, ensure_ascii=False, indent=2)
 
-print(f"✅ Извлечённая структура сохранена: {out_path}")
+print(f"Извлечённая структура сохранена: {out_path}")
