@@ -4,7 +4,6 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch.nn.functional as F
 
-# === Аргументы ===
 parser = argparse.ArgumentParser()
 parser.add_argument("--file", type=str, required=True, help="Путь к .txt файлу")
 parser.add_argument("--specialty", type=str, required=True, help="Целевая специальность")
@@ -12,13 +11,11 @@ parser.add_argument("--threshold", type=float, default=0.3, help="Порог в�
 parser.add_argument("--context", type=int, default=1, help="Сколько фрагментов после включать")
 args = parser.parse_args()
 
-# === Модель ===
 model_path = "models/classifier"
 model = AutoModelForSequenceClassification.from_pretrained(model_path)
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model.eval()
 
-# === Маппинг меток
 id2label = model.config.id2label
 if isinstance(id2label, dict):
     id2label = {int(k): v for k, v in id2label.items()}
@@ -29,11 +26,9 @@ if args.specialty not in label2id:
 
 target_id = label2id[args.specialty]
 
-# === Чтение фрагментов
 with open(args.file, "r", encoding="utf-8") as f:
     fragments = [line.strip() for line in f if len(line.strip()) > 30]
 
-# === Классификация + захват контекста
 selected_indices = set()
 
 for i, frag in enumerate(fragments):
@@ -47,7 +42,6 @@ for i, frag in enumerate(fragments):
         for j in range(i, min(i + 1 + args.context, len(fragments))):
             selected_indices.add(j)
 
-# === Сохраняем отфильтрованный текст
 basename = os.path.basename(args.file).replace(".txt", "")
 output_path = f"data/filtered/{basename}__filtered__{args.specialty}.txt"
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -56,6 +50,6 @@ with open(output_path, "w", encoding="utf-8") as f:
     for idx in sorted(selected_indices):
         f.write(fragments[idx] + "\n\n")
 
-# print(f"✅ Сохранено {len(selected_indices)} фрагментов с контекстом → {output_path}")
+# print(f"Сохранено {len(selected_indices)} фрагментов с контекстом → {output_path}")
 with open(output_path, "r", encoding="utf-8") as f:
     print(f.read())
