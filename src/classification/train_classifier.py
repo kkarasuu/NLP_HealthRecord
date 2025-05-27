@@ -5,23 +5,18 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trai
 from transformers import DataCollatorWithPadding
 import torch
 
-# === 1. Загрузка нового датасета ===
-df = pd.read_csv("data/classification/rumed_classification_dataset.csv")  # путь к новому файлу
-df = df[df["text"].notna() & df["specialty"].notna()]  # фильтрация
+df = pd.read_csv("data/classification/rumed_classification_dataset.csv")  
+df = df[df["text"].notna() & df["specialty"].notna()]  
 
-# Преобразуем специальности в числовые метки
 label_encoder = LabelEncoder()
 df["label"] = label_encoder.fit_transform(df["specialty"])
 
-# Маппинги
 label2id = {label: idx for idx, label in enumerate(label_encoder.classes_)}
 id2label = {idx: label for label, idx in label2id.items()}
 
-# HuggingFace Dataset
 dataset = Dataset.from_pandas(df[["text", "label"]].sample(frac=1).reset_index(drop=True))
 dataset = dataset.train_test_split(test_size=0.2)
 
-# === 2. Токенизация ===
 model_name = "DeepPavlov/rubert-base-cased"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
@@ -30,7 +25,6 @@ def preprocess(example):
 
 encoded_dataset = dataset.map(preprocess, batched=True)
 
-# === 3. Модель ===
 model = AutoModelForSequenceClassification.from_pretrained(
     model_name,
     num_labels=len(label2id),
@@ -38,7 +32,6 @@ model = AutoModelForSequenceClassification.from_pretrained(
     label2id=label2id
 )
 
-# === 4. Аргументы обучения ===
 training_args = TrainingArguments(
     output_dir="./models/classifier",
     evaluation_strategy="epoch",
@@ -51,10 +44,9 @@ training_args = TrainingArguments(
     load_best_model_at_end=True,
     metric_for_best_model="accuracy",
     save_total_limit=1,
-    dataloader_num_workers=0  # важно для macOS
+    dataloader_num_workers=0
 )
 
-# === 5. Trainer ===
 data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
 def compute_metrics(eval_pred):
@@ -73,7 +65,6 @@ trainer = Trainer(
     compute_metrics=compute_metrics
 )
 
-# === 6. Запуск ===
 if __name__ == "__main__":
     trainer.train()
     trainer.save_model("./models/classifier")
